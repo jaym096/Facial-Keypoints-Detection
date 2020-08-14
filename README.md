@@ -23,3 +23,5 @@ used implemented a CNN based facial keypoint detection
 3. Facial keypoint detection on a random image:
 
 <img src="images/images/obamas.jpg"  width="350" height="230">
+
+<img src="saved_images/1.jpg"  width="350" height="230">      <img src="saved_images/2.jpg"  width="350" height="230">
