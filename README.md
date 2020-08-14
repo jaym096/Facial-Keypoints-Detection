@@ -25,3 +25,7 @@ used implemented a CNN based facial keypoint detection
 <img src="images/images/obamas.jpg"  width="350" height="230">
 
 <img src="saved_images/1.jpg"  width="350" height="350">      <img src="saved_images/2.jpg"  width="350" height="350">
+
+4. Applying filters on an image
+
+<img src="saved_images/fkp_detected.png"  width="200" height="200">      <img src="saved_images/final_filtered.png"  width="200" height="200">
