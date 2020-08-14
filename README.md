@@ -12,3 +12,5 @@ used implemented a CNN based facial keypoint detection
        python filters.py
 
 ## Results
+1 facial key point detection before training (PINK = detected keypoints, GREEN = ground truth):
+![Image added](saved_images/res0.png)   ![Image added](saved_images/res1.png)   ![Image added](saved_images/res2.png)
