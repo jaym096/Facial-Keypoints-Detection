@@ -19,3 +19,7 @@ used implemented a CNN based facial keypoint detection
 2. facial key point detection after training:
 
 ![Image added](saved_images/res0.png)   ![Image added](saved_images/res1.png)   ![Image added](saved_images/res2.png)
+
+3. Facial keypoint detection on a random image:
+
+![Image added](images/images/obamas.jpg)   ![Image added](saved_images/1.jpg)   ![Image added](saved_images/2.jpg)
