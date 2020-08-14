@@ -14,7 +14,7 @@ used implemented a CNN based facial keypoint detection
 ## Results
 1. facial key point detection before training (PINK = detected keypoints, GREEN = ground truth):
 
-![Image added](before_train/res0.png)   ![Image added](before_train/res1.png)   ![Image added](before_train/res2.png)
+![Image added](before_train/res0.png)  ![Image added](before_train/res1.png)  ![Image added](before_train/res2.png)
 
 2. facial key point detection after training:
 
